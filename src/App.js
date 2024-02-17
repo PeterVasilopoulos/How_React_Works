@@ -45,7 +45,7 @@ function Tabbed({ content }) {
       )}
     </div>
   );
-}
+} 
 
 function Tab({ num, activeTab, onClick }) {
   return (
